@@ -16,15 +16,12 @@
 # Deploy
 
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/CybriaTech/CybriaGames)
-[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/CybriaTech/CybriaGames)
 [![Deploy with Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repositoryurl=https://github.com/CybriaTech/CybriaGames)
 [![Deploy with Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/CybriaTech/CybriaGames)
 
 # Current Domains/SubDomains
 
 <a href="https://cybria-games.pages.dev/">Cloudflare Pages | CybriaGames.pages.dev</a>
-
-<a href="https://cybriagames.mybooty165.repl.co/">Replit | CybriaGames.MyBooty165.Repl.Co</a>
 
 # Sources
 **The games listed here aren't associated or made from us directly at all, they're embedded into our site for unblocking purposes.**
