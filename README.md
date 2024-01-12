@@ -1,6 +1,6 @@
 <center>
   
-# CybriaGames
+# CybriaGames (DISCONTINUED)
 **Your go-to site for unblocked games and entertainment.**
 ### Founder
 - **X-88**
